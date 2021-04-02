@@ -1,4 +1,4 @@
-# :date: 나만의 인스타그램
+# :crown: 나만의 인스타그램
 
 ###	:hammer_and_wrench: 기술스택
 + React
